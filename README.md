@@ -15,6 +15,11 @@ Simple Node.js/Express app using Nodemailer to send emails
 
 npm install 
 
+write in terminal 
+npm init
+
+and packgae.json install in your device
+
 
 ## Run
 
